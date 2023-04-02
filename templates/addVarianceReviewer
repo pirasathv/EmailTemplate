@@ -1,0 +1,191 @@
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\">
+  <head>
+    <title>${userFirstName}, ${supplierName} is about to become non-compliant</title>
+    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">
+    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">
+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0 \">
+    <meta name=\"format-detection\" content=\"telephone=no\">
+    <link href=\"https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600\" rel=\"stylesheet\">
+    <style type=\"text/css\">
+      body {
+        background-color: #F5F7FA;
+        font-family: Source Sans Pro, Helvetica Neue, Helvetica, Arial, sans-serif;
+        font-size: 16px;
+        color: #0D2242;
+        margin: 0 !important;
+        padding: 0 !important;
+        -webkit-text-size-adjust: 100% !important;
+        -ms-text-size-adjust: 100% !important;
+        -webkit-font-smoothing: antialiased !important
+      }
+
+      img {
+        border: 0 !important;
+        outline: none !important
+      }
+
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 {
+        font-family: Source Sans Pro, Helvetica Neue, Helvetica, Arial, sans-serif;
+        line-height: 1.25;
+        padding: 0;
+        margin: 0 0 16px
+      }
+
+      h1 {
+        font-size: 32px;
+        font-weight: 300
+      }
+
+      h2 {
+        font-size: 26px;
+        font-weight: 400
+      }
+
+      h3 {
+        font-size: 20px;
+        font-weight: 600
+      }
+
+      h4 {
+        font-size: 18px;
+        font-weight: 600
+      }
+
+      h5 {
+        font-size: 16px;
+        font-weight: 600
+      }
+
+      h6 {
+        font-size: 14px;
+        font-weight: 600
+      }
+
+      p {
+        line-height: 1.5;
+        font-size: 16px;
+        margin: 0px 0px 16px !important;
+        padding: 0px !important
+      }
+
+      p.lead {
+        line-height: 1.5;
+        font-size: 18px;
+        margin: 0px 0px 16px !important;
+        padding: 0px !important
+      }
+
+      p.small,
+      p small {
+        line-height: 1.5;
+        font-size: 14px;
+        margin: 0px 0px 16px !important;
+        padding: 0px !important
+      }
+
+      table {
+        border-collapse: collapse;
+        mso-table-lspace: 0px;
+        mso-table-rspace: 0px
+      }
+
+      td,
+      a,
+      span {
+        border-collapse: collapse;
+        mso-line-height-rule: exactly
+      }
+
+      a.btn-primary {
+        display: inline-block;
+        padding: 0.625rem 1rem;
+        margin-top: 16px;
+        text-transform: uppercase;
+        border-radius: 1.5rem;
+        border: 2px solid transparent;
+        cursor: pointer;
+        outline: none;
+        box-shadow: none;
+        text-decoration: none;
+        text-align: center;
+        white-space: nowrap;
+        vertical-align: middle;
+        position: relative;
+        color: #fff;
+        background-color: #0DB14B;
+        border: 2px solid #0DB14B;
+        font-family: Source Sans Pro, Helvetica Neue, Helvetica, Arial, sans-serif;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 1;
+        box-sizing: border-box;
+        -webkit-transition: all 0.2s ease-in-out;
+        -o-transition: all 0.2s ease-in-out;
+        transition: all 0.2s ease-in-out;
+        -webkit-appearance: none;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none
+      }
+
+      a.btn-primary:hover {
+        background-color: #0A8A3B;
+        border: 2px solid #0A8A3B
+      }
+    </style>
+  </head>
+  <body class=\"em_body\" style=\"margin:0px; padding:0px;\" bgcolor=\"#F5F7FA\">
+    <table class=\"em_full_wrap\" valign=\"top\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\" bgcolor=\"#F5F7FA\" align=\"center\">
+      <tbody>
+        <tr>
+          <td valign=\"top\" align=\"center\">
+            <table class=\"em_main_table\" style=\"width:700px;\" width=\"700\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\" align=\"center\">
+              <tbody>
+                <tr>
+                  <td valign=\"top\" align=\"center\">
+                    <table width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\" align=\"center\">
+                      <tbody>
+                        <tr>
+                          <td valign=\"top\" align=\"center\" style=\"padding-top: 3rem; padding-bottom: 3rem;\">
+                            <img class=\"em_img\" alt=\"Avetta\" style=\"display:block; font-family: Source Sans Pro, Arial, sans-serif; font-size:30px; line-height:38px; color:#233654; max-width:190px;\" src=\"https://app.avetta.com/static/images/logo-header.png\" height=\"42\" border=\"0\" />
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td style=\"padding:32px; border-radius: 5px; -webkit-box-shadow: 0 5px 15px 0 rgba(0,0,0,0.07), 0 15px 35px 0 rgba(49,105,193,0.10); box-shadow: 0 5px 15px 0 rgba(0,0,0,0.07), 0 15px 35px 0 rgba(49,105,193,0.10);\" class=\"em_padd\" valign=\"top\" bgcolor=\"#fff\" align=\"center\">
+                    <table width=\"100%\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\" align=\"center\">
+                      <tbody>
+                        <tr>
+                          <td style=\"font-family:Source Sans Pro, Arial, sans-serif; font-size:16px; line-height:24px; color:#0D2242;\" valign=\"top\" align=\"center\"> ${templateBodyText.0} <p align=\"center\">
+                              <a href=\"${~~connectBaseUrl}/avt-cli/supplier/${supplierId}/variance/${supplierFlagId}?siteId=${siteId}\" class=\"btn-primary\">${templateBodyText.1}</a>
+                            </p>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <table width=\"680\" cellspacing=\"20\" cellpadding=\"0\" border=\"0\" align=\"center\" style=\"margin-top: 50px;\" class=\"contentTable\">
+              <tr>
+                <td style=\"font-family:Source Sans Pro, Arial, sans-serif; font-size:14px; line-height:21px; color:#818DA1; padding:0px 32px 32px;\" class=\"em_padd\" valign=\"top\" bgcolor=\"#f6f7f8\" align=\"center\"> ${templateBodyText.2}</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <div class=\"em_hide\" style=\"white-space: nowrap; display: none; font-size:0px; line-height:0px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+  </body>
+</html>
